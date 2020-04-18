@@ -1,4 +1,4 @@
-# book_management
+# Book Management
 Python Learning Project 1
 
 Assuming that we have many books that member can read. To manage and use them effectively, the management and reviewing system is needed
